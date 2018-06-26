@@ -10,4 +10,4 @@ Welcome to my documentation
 ### Some related resources
 
 [Github
-Repository]https://github.com/githubschool/automatic-memory/issues
+Repository](https://github.com/githubschool/automatic-memory/issues)
